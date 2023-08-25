@@ -118,4 +118,4 @@ ENV HOME="/config"
 
 # ports and volumes
 EXPOSE 8123
-VOLUME /config
+# VOLUME /config
